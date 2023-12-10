@@ -3,7 +3,7 @@ import Card from "./Card";
 
 const Testimonials = () => {
   return (
-    <div>
+    <>
       <div className="">
         <Card
           title="Jack F"
@@ -25,7 +25,7 @@ const Testimonials = () => {
           description="“Managing my own portfolio is helpful and well designed. What’s really interesting is.”"
         />
       </div>
-    </div>
+    </>
   );
 };
 

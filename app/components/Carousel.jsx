@@ -15,7 +15,7 @@ const Carousel = () => {
       <CardBase>
         <div className="flex justify-between flex-col h-full w-56">
           <div className=" flex justify-between items-center">
-            <img src="/static/images/Bell (3).svg" />
+            <img src="/static/images/Bell-3.svg" />
             <span className="text-[0.75rem] font-semibold text-[#19191A]">
               Save
             </span>

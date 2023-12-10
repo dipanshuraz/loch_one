@@ -1,6 +1,7 @@
 import Divider from "./components/Divider";
 import Carousel from "./components/Carousel";
 import Form from "./components/Form";
+import Testimonials from "./components/Testimonials";
 
 export default function Home() {
   return (
@@ -56,7 +57,7 @@ export default function Home() {
             <img src="/static/images/Vector.svg" />
           </div>
           <div className="w-5/6 lg:w-11/12 flex overflow-x-scroll no-scrollbar">
-            <Carousel />
+            <Testimonials />
           </div>
         </div>
       </div>
